@@ -1,7 +1,7 @@
 
 # bugs
 	A collection of bugs which I found . As you know , I am a web application developer , 
-	so maybe most of the bugs would be about ***paging-layout*** . ^_^  
+	so maybe most of the bugs would be about ***pages' layout*** . ^_^  
 
 	Can you found out them , guys !
 
