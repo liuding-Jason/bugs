@@ -4,22 +4,31 @@
 
 	Can you found out them , guys !
 
-#bug1
+### bug1
 This bug was found in `JD Finance APP` , when i was scaning the sale of phones without buying desire , ha !  
 ![jd](./jd.jpeg)
 
+***
 
-#bug2
+### bug2
 As you konw , each of the workers in city maybe did not have enough time to have lunch , so `Meal Sending App` is very popular in china , espescially Beijing and Shanghai . So do I . This bug was found in `Elem` .
 ![elem](./elem.jpeg)
 
+***
 
-#bug3
+### bug3
 About this bug , I had checkout out with my friends . We had an argue in the postion of right mark in the bubble . I do believe it should be the center , but they thought that's ok ! So , What's your apinion ?
 ![weixin](./weixin.jpeg)
 
-#bug4
+***
+
+###bug4
 This bug was found when I was having a phone with my `beautiful` girl friend .
 ![dingding](./dingding.jpeg)
 
+***
+
+## Zhihu
+
+My ZhiHu Home Page ***[柳丁Jason Chen](https://www.zhihu.com/people/liu-ding-jasonchen)*** 
 
